@@ -9,4 +9,12 @@ body {
     padding: 0;
     height: 100vh;
     background-color: #fef6ff;
+
+    .main_container_app {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
 }
+

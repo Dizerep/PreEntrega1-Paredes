@@ -1,0 +1,801 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Croquetas Premium",
+      "precio": 20.99,
+      "descripcion": "Alimento balanceado para perros adultos con alto contenido proteico. Elaborado con ingredientes naturales como carne de res, pollo y arroz integral. Contiene vitaminas y minerales esenciales para una nutrición completa y una piel sana. Libre de conservantes artificiales.",
+      "fabricante": "NutriPet Foods",
+      "pais_origen": "Estados Unidos",
+      "peso": "2.5 kg",
+      "dimensiones": "30 x 20 x 10 cm",
+      "beneficios": [
+        "Favorece una digestión saludable",
+        "Fortalece el sistema inmunológico",
+        "Mejora la salud del pelaje y la piel"
+      ],
+      "instrucciones_uso": "Sirve de 200g a 400g por día según el peso del perro.",
+      "recomendaciones": "No apto para cachorros menores de 6 meses.",
+      "testimonios": [
+        {
+          "usuario": "Juan Pérez",
+          "comentario": "Mi perro ama estas croquetas, su pelaje se ve brillante.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "María Gómez",
+          "comentario": "Buen alimento, digestión mejorada.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 50,
+      "categoria": "1",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_700630-MLU74178518821_012024-O.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Collar Reflectante",
+      "precio": 12.50,
+      "descripcion": "Collar ajustable para perros con material reflectante para mayor seguridad en paseos nocturnos.",
+      "fabricante": "SafePet",
+      "pais_origen": "China",
+      "material": "Nylon y acero inoxidable",
+      "dimensiones": "45 - 65 cm ajustable",
+      "peso": "120 g",
+      "beneficios": [
+        "Mayor seguridad en paseos nocturnos",
+        "Material duradero y resistente"
+      ],
+      "instrucciones_uso": "Ajusta el collar al tamaño adecuado del cuello del perro.",
+      "recomendaciones": "No usar en cachorros menores de 3 meses.",
+      "testimonios": [
+        {
+          "usuario": "Carlos Ramírez",
+          "comentario": "Se ve perfectamente de noche.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Ana López",
+          "comentario": "Material de buena calidad.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 30,
+      "categoria": "1",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_998201-CBT76724002404_062024-O.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Juguete Mordedera",
+      "precio": 8.75,
+      "descripcion": "Juguete de goma resistente ideal para la limpieza dental y reducción del estrés en perros.",
+      "fabricante": "PawPlay",
+      "pais_origen": "Brasil",
+      "material": "Goma natural",
+      "dimensiones": "15 x 8 cm",
+      "peso": "200 g",
+      "beneficios": [
+        "Favorece la limpieza dental",
+        "Reduce el estrés y la ansiedad"
+      ],
+      "instrucciones_uso": "Permite que el perro juegue bajo supervisión.",
+      "recomendaciones": "No apto para perros con mordida muy fuerte.",
+      "testimonios": [
+        {
+          "usuario": "Lucas Herrera",
+          "comentario": "Lo mantiene entretenido por horas.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Andrea Sánchez",
+          "comentario": "Buen material, pero se desgasta rápido.",
+          "calificacion": 3.5
+        }
+      ],
+      "stock": 40,
+      "categoria": "1",
+      "imagen_url": "https://www.wohlpet.com/wp-content/uploads/2022/12/juguete-mordedor-multifuncion.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Cama Acolchonada",
+      "precio": 35.99,
+      "descripcion": "Cama ergonómica y lavable para perros, fabricada con espuma de alta densidad y forro removible. Proporciona soporte ortopédico y confort superior. Ideal para perros de todas las edades.",
+      "fabricante": "CozyPet",
+      "pais_origen": "México",
+      "material": "Espuma de alta densidad y tela de microfibra",
+      "dimensiones": "80 x 60 x 15 cm",
+      "peso": "1.5 kg",
+      "beneficios": [
+        "Proporciona soporte ortopédico",
+        "Fácil de lavar",
+        "Diseño elegante y cómodo"
+      ],
+      "instrucciones_uso": "Coloca la cama en un área tranquila. Lava el forro cada 2 semanas para mantener la higiene.",
+      "recomendaciones": "Ideal para perros adultos, no recomendado para uso en exteriores sin protección.",
+      "testimonios": [
+        {
+          "usuario": "Laura Martínez",
+          "comentario": "Mi perro duerme plácidamente en esta cama.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "José Ruiz",
+          "comentario": "Muy cómoda y fácil de limpiar.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 15,
+      "categoria": "1",
+      "imagen_url": "https://http2.mlstatic.com/D_Q_NP_924399-MLU73420990161_122023-O.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Champú para Perros",
+      "precio": 10.25,
+      "descripcion": "Champú anti-pulgas con aroma fresco, enriquecido con aloe vera y extracto de manzanilla. Limpia profundamente sin resecar el pelaje.",
+      "fabricante": "PetCare Essentials",
+      "pais_origen": "España",
+      "volumen": "500 ml",
+      "beneficios": [
+        "Elimina pulgas",
+        "Hidrata el pelaje",
+        "Aroma refrescante"
+      ],
+      "instrucciones_uso": "Aplicar sobre el pelaje mojado, masajear y enjuagar bien.",
+      "recomendaciones": "Usar cada 15 días. Evitar contacto con los ojos.",
+      "testimonios": [
+        {
+          "usuario": "Marta Díaz",
+          "comentario": "Deja el pelo de mi perro muy suave.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Roberto Sánchez",
+          "comentario": "Eficaz contra pulgas, lo recomiendo.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 25,
+      "categoria": "1",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfx03HfqEhdEftHUz8bSiZc6-hSIws3KGyWA&s"
+    },
+    {
+      "id": 6,
+      "nombre": "Arena para Gatos",
+      "precio": 15.00,
+      "descripcion": "Arena ultra absorbente y de control de olores, hecha de bentonita de alta calidad. Facilita la limpieza del arenero y mantiene el ambiente fresco.",
+      "fabricante": "CatBest",
+      "pais_origen": "Alemania",
+      "peso": "10 kg",
+      "beneficios": [
+        "Neutraliza olores",
+        "Fácil de limpiar",
+        "Libre de polvo"
+      ],
+      "instrucciones_uso": "Verter 5 cm en el arenero y limpiar diariamente los residuos.",
+      "recomendaciones": "Almacenar en lugar seco. No mezclar con otras arenas.",
+      "testimonios": [
+        {
+          "usuario": "Mariana Torres",
+          "comentario": "Excelente control de olores.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Felipe González",
+          "comentario": "Muy buena, aunque el paquete se rompe fácilmente.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 60,
+      "categoria": "2",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSVz7IFHbT7h4FxqcPCc4fHcgm8_UaT7LgA&s"
+    },
+    {
+      "id": 7,
+      "nombre": "Rascador de Cartón",
+      "precio": 18.75,
+      "descripcion": "Rascador ecológico para gatos hecho de cartón reciclado. Estimula el instinto natural y protege tus muebles.",
+      "fabricante": "EcoPet",
+      "pais_origen": "Colombia",
+      "material": "Cartón reciclado",
+      "dimensiones": "50 x 20 x 5 cm",
+      "peso": "400 g",
+      "beneficios": [
+        "Estimula la actividad",
+        "Ecológico y reciclable",
+        "Protege muebles"
+      ],
+      "instrucciones_uso": "Coloca el rascador en un área visible y de fácil acceso para tu gato.",
+      "recomendaciones": "Reemplazar cuando se desgaste significativamente.",
+      "testimonios": [
+        {
+          "usuario": "Sofía Mendoza",
+          "comentario": "A mi gato le encanta y lo usa todos los días.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Diego Ramírez",
+          "comentario": "Buena calidad, aunque algo frágil.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 20,
+      "categoria": "2",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS0SPdOxmwJinROIVsDwSJEYGKO6SwsvKYQ&s"
+    },
+    {
+      "id": 8,
+      "nombre": "Juguete Ratón",
+      "precio": 5.50,
+      "descripcion": "Juguete de felpa en forma de ratón, relleno con catnip para estimular el instinto cazador de los gatos.",
+      "fabricante": "WhiskerFun",
+      "pais_origen": "China",
+      "material": "Felpa y catnip",
+      "dimensiones": "10 x 5 cm",
+      "peso": "50 g",
+      "beneficios": [
+        "Estimula el juego",
+        "Aroma natural",
+        "Suave y seguro"
+      ],
+      "instrucciones_uso": "Ofrece el juguete a tu gato y reemplázalo si se daña.",
+      "recomendaciones": "No apto para gatos con hábitos de destrucción agresiva.",
+      "testimonios": [
+        {
+          "usuario": "Carla Ruiz",
+          "comentario": "Mi gato no se cansa de jugar con este ratón.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Andrés López",
+          "comentario": "Diversión garantizada.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 50,
+      "categoria": "2",
+      "imagen_url": "https://m.media-amazon.com/images/I/61fFTbvPeWL.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Alimento Húmedo",
+      "precio": 2.99,
+      "descripcion": "Lata de comida húmeda para gatos con sabor a pollo, formulada para proporcionar una dieta balanceada y apetitosa.",
+      "fabricante": "CatDelight",
+      "pais_origen": "Francia",
+      "volumen": "85 g",
+      "beneficios": [
+        "Sabor irresistible",
+        "Fácil digestión",
+        "Hidratación adicional"
+      ],
+      "instrucciones_uso": "Servir una lata al día, complementando con alimento seco.",
+      "recomendaciones": "Conservar en refrigeración tras abrir.",
+      "testimonios": [
+        {
+          "usuario": "Elena García",
+          "comentario": "Mi gato come todo lo que le ofrezco.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Miguel Alvarez",
+          "comentario": "Buen sabor, aunque es un poco costoso.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 80,
+      "categoria": "2",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJ9BHxKs5DH_gaFpp582EmkDHbFP9BT_o-g&s"
+    },
+    {
+      "id": 10,
+      "nombre": "Cama para Gatos",
+      "precio": 28.99,
+      "descripcion": "Cama suave y acogedora para gatos, diseñada para proporcionar confort y un lugar seguro para descansar.",
+      "fabricante": "CozyCat",
+      "pais_origen": "Italia",
+      "material": "Fieltro y microfibra",
+      "dimensiones": "40 x 30 x 10 cm",
+      "peso": "800 g",
+      "beneficios": [
+        "Proporciona un sueño reparador",
+        "Fácil de limpiar",
+        "Diseño elegante"
+      ],
+      "instrucciones_uso": "Coloca la cama en un lugar tranquilo de la casa.",
+      "recomendaciones": "Ideal para gatos de interior, lavar cada 2 semanas.",
+      "testimonios": [
+        {
+          "usuario": "Lucía Fernández",
+          "comentario": "A mi gato le encanta su nueva cama.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Roberto Jiménez",
+          "comentario": "Muy cómoda y de buena calidad.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 10,
+      "categoria": "2",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYuhrXNOgtPOCbkL7-B-01ndLZuxmlglz_Fw&s"
+    },
+    {
+      "id": 11,
+      "nombre": "Pecera 20L",
+      "precio": 45.00,
+      "descripcion": "Pecera de vidrio de 20 litros con filtro incorporado y luz LED, ideal para mantener peces tropicales en condiciones óptimas.",
+      "fabricante": "AquaWorld",
+      "pais_origen": "Japón",
+      "material": "Vidrio templado",
+      "dimensiones": "40 x 25 x 30 cm",
+      "peso": "5 kg",
+      "beneficios": [
+        "Diseño compacto",
+        "Filtro eficiente",
+        "Iluminación LED integrada"
+      ],
+      "instrucciones_uso": "Montar según las instrucciones y llenar con agua tratada antes de introducir peces.",
+      "recomendaciones": "Cambiar el filtro cada 2 meses para mantener la calidad del agua.",
+      "testimonios": [
+        {
+          "usuario": "Hiroshi Yamamoto",
+          "comentario": "Excelente para mi acuario casero.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Ana Takahashi",
+          "comentario": "Muy funcional y bien iluminada.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 10,
+      "categoria": "3",
+      "imagen_url": "https://m.media-amazon.com/images/I/61NFVFaqe9L.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Alimento para Peces",
+      "precio": 7.25,
+      "descripcion": "Comida en escamas especialmente formulada para peces tropicales, con nutrientes esenciales para su crecimiento y coloración.",
+      "fabricante": "FishyDelight",
+      "pais_origen": "Tailandia",
+      "beneficios": [
+        "Promueve un crecimiento saludable",
+        "Realza los colores naturales",
+        "Fácil de digerir"
+      ],
+      "instrucciones_uso": "Añadir una pequeña cantidad al acuario, ajustar según la cantidad de peces.",
+      "recomendaciones": "No sobrealimentar para evitar deterioro de la calidad del agua.",
+      "testimonios": [
+        {
+          "usuario": "Markus Schmidt",
+          "comentario": "Mis peces se ven más vivos.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Lila Nguyen",
+          "comentario": "Buena alimentación para peces tropicales.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 50,
+      "categoria": "3",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1tAYxC1kprI1EPlD1-ucSPZqbKAoXrKPaEw&s"
+    },
+    {
+      "id": 13,
+      "nombre": "Decoración Coral",
+      "precio": 12.99,
+      "descripcion": "Adorno para peceras con forma de coral, que añade un toque natural y colorido a tu acuario sin afectar la calidad del agua.",
+      "fabricante": "AquaDecor",
+      "pais_origen": "España",
+      "material": "Resina segura para acuarios",
+      "dimensiones": "15 x 10 x 8 cm",
+      "peso": "300 g",
+      "beneficios": [
+        "Añade belleza al acuario",
+        "Fácil de limpiar",
+        "Material no tóxico"
+      ],
+      "instrucciones_uso": "Coloca la decoración en el acuario sin sobresaturar el espacio.",
+      "recomendaciones": "Verificar que no haya bordes afilados antes de colocar.",
+      "testimonios": [
+        {
+          "usuario": "Pedro López",
+          "comentario": "Le da un toque único a mi acuario.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Claudia Ramos",
+          "comentario": "Muy estética y segura para mis peces.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 25,
+      "categoria": "3",
+      "imagen_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/f66e4e25f1453c5ec0d505aa57faaa93.jpg?imageView2/2/w/500/q/60/format/webp"
+    },
+    {
+      "id": 14,
+      "nombre": "Filtro de Agua",
+      "precio": 30.00,
+      "descripcion": "Filtro de alta eficiencia para acuarios, diseñado para mantener el agua limpia y libre de impurezas. Compatible con diferentes tamaños de peceras.",
+      "fabricante": "ClearFlow",
+      "pais_origen": "Corea del Sur",
+      "material": "Plástico de alta calidad y componentes filtrantes",
+      "dimensiones": "Varía según el modelo",
+      "beneficios": [
+        "Mejora la calidad del agua",
+        "Fácil instalación",
+        "Bajo consumo energético"
+      ],
+      "instrucciones_uso": "Instalar según el manual y realizar mantenimiento cada 30 días.",
+      "recomendaciones": "Verificar el estado del filtro mensualmente.",
+      "testimonios": [
+        {
+          "usuario": "Jin Soo",
+          "comentario": "El filtro mantiene mi acuario impecable.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Min Ho",
+          "comentario": "Instalación sencilla y eficiente.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 15,
+      "categoria": "3",
+      "imagen_url": "https://m.media-amazon.com/images/I/71KQxgAftLL.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Luz LED para Acuario",
+      "precio": 20.50,
+      "descripcion": "Iluminación LED sumergible para acuarios, que realza los colores de tus peces y plantas, y proporciona un ambiente natural y relajante.",
+      "fabricante": "AquaLight",
+      "pais_origen": "Estados Unidos",
+      "beneficios": [
+        "Eficiencia energética",
+        "Resalta colores",
+        "Fácil de instalar"
+      ],
+      "instrucciones_uso": "Instalar en el borde del acuario y ajustar la intensidad según la luz ambiente.",
+      "recomendaciones": "No exceder 6 horas de uso continuo para prolongar la vida útil.",
+      "testimonios": [
+        {
+          "usuario": "Susan Lee",
+          "comentario": "La iluminación es perfecta para mi acuario.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "David Kim",
+          "comentario": "Muy eficiente y de fácil ajuste.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 20,
+      "categoria": "3",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmqBMkefqRcQT18tYcWckdsWKRq4DoCS5wnw&s"
+    },
+    {
+      "id": 16,
+      "nombre": "Jaula para Aves",
+      "precio": 55.00,
+      "descripcion": "Jaula espaciosa y segura para aves, equipada con perchas y comederos. Ideal para mantener a tus aves cómodas y seguras.",
+      "fabricante": "BirdHome",
+      "pais_origen": "Brasil",
+      "material": "Metal y plástico resistente",
+      "dimensiones": "60 x 40 x 50 cm",
+      "peso": "4 kg",
+      "beneficios": [
+        "Espaciosa",
+        "Fácil de limpiar",
+        "Diseño seguro"
+      ],
+      "instrucciones_uso": "Colocar en un área ventilada y limpiar regularmente.",
+      "recomendaciones": "Adecuada para aves de tamaño mediano y pequeño.",
+      "testimonios": [
+        {
+          "usuario": "Laura Silva",
+          "comentario": "Mis pájaros están muy contentos.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Marco Antonio",
+          "comentario": "Buena calidad y diseño.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 12,
+      "categoria": "4",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_764766-CBT78245029384_082024-O.webp"
+    },
+    {
+      "id": 17,
+      "nombre": "Alpiste Premium",
+      "precio": 10.00,
+      "descripcion": "Alimento balanceado para aves, formulado con ingredientes naturales para proporcionar energía y vitalidad.",
+      "fabricante": "BirdFeed",
+      "pais_origen": "México",
+      "beneficios": [
+        "Aporta energía",
+        "Ingredientes naturales",
+        "Favorece un plumaje saludable"
+      ],
+      "instrucciones_uso": "Ofrecer diariamente en pequeñas cantidades.",
+      "recomendaciones": "No sobrealimentar para evitar obesidad.",
+      "testimonios": [
+        {
+          "usuario": "Ana Morales",
+          "comentario": "Excelente alimento para mis canarios.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Ricardo Pérez",
+          "comentario": "Mejoró el plumaje de mis aves.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 40,
+      "categoria": "4",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6acPh8PZUDEQ4ELMN3sttbBRwNIjG0_GwYQ&s"
+    },
+    {
+      "id": 18,
+      "nombre": "Percha de Madera",
+      "precio": 6.75,
+      "descripcion": "Percha natural para jaulas, diseñada para ofrecer un lugar cómodo y seguro para que las aves descansen.",
+      "fabricante": "NaturalNest",
+      "pais_origen": "Colombia",
+      "material": "Madera natural",
+      "dimensiones": "25 x 5 x 5 cm",
+      "peso": "150 g",
+      "beneficios": [
+        "Natural y ecológica",
+        "Fomenta el descanso",
+        "Fácil de limpiar"
+      ],
+      "instrucciones_uso": "Coloca la percha dentro de la jaula en un área accesible para las aves.",
+      "recomendaciones": "Revisar periódicamente para evitar astillas.",
+      "testimonios": [
+        {
+          "usuario": "Luis Martínez",
+          "comentario": "Muy resistente y natural.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Elena Cruz",
+          "comentario": "Buena opción para mis loros.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 30,
+      "categoria": "4",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_894541-CBT79675903478_102024-O.webp"
+    },
+    {
+      "id": 19,
+      "nombre": "Bebedero para Aves",
+      "precio": 5.99,
+      "descripcion": "Bebedero automático para jaulas, diseñado para mantener a las aves hidratadas de forma constante.",
+      "fabricante": "AquaBird",
+      "pais_origen": "China",
+      "material": "Plástico seguro para alimentos",
+      "dimensiones": "15 x 10 x 10 cm",
+      "peso": "200 g",
+      "beneficios": [
+        "Hidratación continua",
+        "Fácil instalación",
+        "Ahorro de agua"
+      ],
+      "instrucciones_uso": "Llena el bebedero y colócalo en un lugar accesible para las aves.",
+      "recomendaciones": "Limpia semanalmente para evitar acumulación de residuos.",
+      "testimonios": [
+        {
+          "usuario": "Verónica Silva",
+          "comentario": "Mis aves siempre tienen agua fresca.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Andrés Castillo",
+          "comentario": "Muy práctico y fácil de usar.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 25,
+      "categoria": "4",
+      "imagen_url": "https://m.media-amazon.com/images/I/61q-MMymJeL.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Juguete para Loros",
+      "precio": 14.50,
+      "descripcion": "Juguete interactivo con campana para loros, que estimula su inteligencia y les proporciona entretenimiento.",
+      "fabricante": "ParrotPlay",
+      "pais_origen": "Estados Unidos",
+      "material": "Plástico y cuerda resistente",
+      "dimensiones": "20 x 15 x 10 cm",
+      "peso": "350 g",
+      "beneficios": [
+        "Estimula la actividad mental",
+        "Duradero",
+        "Fomenta el juego"
+      ],
+      "instrucciones_uso": "Ofrece el juguete en la jaula y supervisa el juego.",
+      "recomendaciones": "Reemplazar si muestra signos de desgaste.",
+      "testimonios": [
+        {
+          "usuario": "Patricia Gómez",
+          "comentario": "Mi loro no deja de jugar con él.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Oscar Torres",
+          "comentario": "Muy divertido y resistente.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 20,
+      "categoria": "4",
+      "imagen_url": "https://m.media-amazon.com/images/I/61qf5O1eekL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Terrario 40L",
+      "precio": 70.00,
+      "descripcion": "Terrario de vidrio de 40 litros con tapa ventilada, ideal para reptiles. Proporciona un ambiente controlado y seguro.",
+      "fabricante": "ReptiHome",
+      "pais_origen": "México",
+      "material": "Vidrio y metal",
+      "dimensiones": "50 x 35 x 40 cm",
+      "peso": "7 kg",
+      "beneficios": [
+        "Ambiente seguro",
+        "Fácil de limpiar",
+        "Diseño elegante"
+      ],
+      "instrucciones_uso": "Instalar en un lugar con luz indirecta y temperatura controlada.",
+      "recomendaciones": "Ideal para reptiles de pequeño y mediano tamaño.",
+      "testimonios": [
+        {
+          "usuario": "Diego Ramirez",
+          "comentario": "Excelente calidad y diseño.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Mariana Rojas",
+          "comentario": "Mis reptiles se adaptaron muy bien.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 8,
+      "categoria": "5",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmF5ckCft7X0pU9degneHv3ElbfpzTgqS3Q&s"
+    },
+    {
+      "id": 22,
+      "nombre": "Lámpara UVB",
+      "precio": 25.99,
+      "descripcion": "Lámpara esencial para reptiles, que emite rayos UVB para favorecer la síntesis de vitamina D y un metabolismo saludable.",
+      "fabricante": "ReptiLight",
+      "pais_origen": "China",
+      "beneficios": [
+        "Mejora la salud ósea",
+        "Fácil de instalar",
+        "Eficiencia energética"
+      ],
+      "instrucciones_uso": "Coloca la lámpara a la distancia recomendada del terrario y enciéndela por 10-12 horas diarias.",
+      "recomendaciones": "Reemplazar cada 6-12 meses para mantener la eficacia.",
+      "testimonios": [
+        {
+          "usuario": "Xiao Li",
+          "comentario": "Mis reptiles se benefician mucho de esta lámpara.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Chen Wei",
+          "comentario": "Buena relación calidad-precio.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 15,
+      "categoria": "5",
+      "imagen_url": "https://m.media-amazon.com/images/I/713A9LjI7CL.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "Sustrato para Reptiles",
+      "precio": 9.99,
+      "descripcion": "Sustrato natural para terrarios, que imita el ambiente natural y favorece la salud de reptiles.",
+      "fabricante": "ReptiSoil",
+      "pais_origen": "India",
+      "beneficios": [
+        "Fomenta un ambiente natural",
+        "Mejora la retención de humedad",
+        "Fácil de limpiar"
+      ],
+      "instrucciones_uso": "Extiende una capa uniforme de sustrato en el terrario.",
+      "recomendaciones": "Reemplazar parcialmente cada 2 meses.",
+      "testimonios": [
+        {
+          "usuario": "Rahul Kumar",
+          "comentario": "Perfecto para mi terrario.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Asha Patel",
+          "comentario": "Muy natural y seguro para reptiles.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 30,
+      "categoria": "5",
+      "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZN8EuUC3PGfAq6CiQiFk_5H23d45_mDJKXp8Uvr0s-9SWKsUscfxM3EKYFYnIB77vaHA&usqp=CAU"
+    },
+    {
+      "id": 24,
+      "nombre": "Comida para Tortugas",
+      "precio": 8.50,
+      "descripcion": "Alimento seco especialmente formulado para tortugas acuáticas, que proporciona nutrientes esenciales y energía para su día a día.",
+      "fabricante": "TurtleFood",
+      "pais_origen": "Estados Unidos",
+      "beneficios": [
+        "Nutrición balanceada",
+        "Fácil digestión",
+        "Aumenta la energía"
+      ],
+      "instrucciones_uso": "Ofrece pequeñas porciones diarias según el tamaño de la tortuga.",
+      "recomendaciones": "No sobrealimentar para evitar problemas digestivos.",
+      "testimonios": [
+        {
+          "usuario": "Samuel Green",
+          "comentario": "Mi tortuga luce más activa y saludable.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Emma White",
+          "comentario": "Buena alimentación, aunque requiere control de porciones.",
+          "calificacion": 4
+        }
+      ],
+      "stock": 35,
+      "categoria": "5",
+      "imagen_url": "https://i5.walmartimages.com/asr/dcdb2ebe-d6ae-4bcd-8ee3-711ce7799406.aff2f83251b55cd062271dc76495b859.png"
+    },
+    {
+      "id": 25,
+      "nombre": "Cueva Decorativa",
+      "precio": 16.75,
+      "descripcion": "Escondite seguro y decorativo para reptiles, que imita un ambiente natural y ofrece un refugio cómodo.",
+      "fabricante": "ReptiDecor",
+      "pais_origen": "México",
+      "material": "Resina de alta calidad",
+      "dimensiones": "25 x 20 x 15 cm",
+      "peso": "1 kg",
+      "beneficios": [
+        "Aumenta el bienestar del reptil",
+        "Fácil de limpiar",
+        "Diseño natural"
+      ],
+      "instrucciones_uso": "Coloca la cueva en el terrario en un área sombreada.",
+      "recomendaciones": "Verificar estabilidad y limpieza regularmente.",
+      "testimonios": [
+        {
+          "usuario": "Carlos Mendoza",
+          "comentario": "A mis reptiles les encanta su nueva cueva.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Isabel Vargas",
+          "comentario": "Excelente calidad y diseño.",
+          "calificacion": 4.5
+        }
+      ],
+      "stock": 20,
+      "categoria": "5",
+      "imagen_url": "https://m.media-amazon.com/images/I/71T2Uz3VmvL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}
